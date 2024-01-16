@@ -29,7 +29,7 @@ global.CAPTION = '*@created by mr mtaju*'
 */
 var SESSION_ID = ''
 global.AI_PASSWORD = 'king-nima-gpt-bot'
-global.SESSION_ID = process.env.SESSION_ID || SESSION_ID 
+global.SESSION_ID = process.env.SESSION_ID |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| SESSION_ID 
 
 /*
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
